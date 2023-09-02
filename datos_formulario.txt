@@ -1,0 +1,36 @@
+Nombre: Stefanny
+Cédula: 0605099662
+Email: tefilabebe@gmail.com
+Teléfono: 0994134372
+Dirección: Madrid
+Ocupación: Estudiante
+Personas en el hogar: 1
+Tipo de inmueble: Casa propia
+Mensaje: Prueba1
+Nombre: Pedro 
+Cédula: 0605099662
+Email: smhernandez2@espe.edu.ec
+Teléfono: 0963355747
+Dirección: Madrid
+Ocupación: Estudiante
+Personas en el hogar: 2
+Tipo de inmueble: Departamento
+Mensaje: Prueba 2
+Nombre: Pedro 
+Cédula: 0605099662
+Email: smhernandez2@espe.edu.ec
+Teléfono: 0963355747
+Dirección: Madrid
+Ocupación: Estudiante
+Personas en el hogar: 2
+Tipo de inmueble: Departamento
+Mensaje: Prueba 2
+Nombre: Stefanny
+Cédula: 0605099662
+Email: tefilabebe@gmail.com
+Teléfono: 0994134372
+Dirección: Madrid
+Ocupación: Estudiante
+Personas en el hogar: 5
+Tipo de inmueble: Quinta
+Mensaje: Prueba 3
