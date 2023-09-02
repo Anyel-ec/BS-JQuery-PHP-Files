@@ -1,6 +1,4 @@
-Certainly! Here's the README.md for a website using Bootstrap, PHP, jQuery, and file handling. Please make sure to customize the information according to your specific project:
-
-# Readme - Website with Bootstrap, PHP, jQuery, and File Handling
+# Website with Bootstrap, PHP, jQuery, and File Handling
 
 This is a website project developed using technologies such as Bootstrap, PHP, jQuery, and file handling. Below is an overview of the key features and important aspects of this project.
 
